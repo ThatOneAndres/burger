@@ -1,0 +1,25 @@
+body{
+	background-color: #26B5EE
+}
+.burger-list{
+	resize: none;
+}
+.devour{
+	margin-bottom: 10px ;
+}
+
+.devoured{
+	resize: none;
+	width: 100%;
+}
+.burger-entry{
+	margin-top: 20px;
+	resize: none;
+	width: 100%;
+}
+#title{
+	color: red;
+}
+#instructions{
+	font-weight: bold;
+}
